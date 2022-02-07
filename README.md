@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # digital-business-card
 My digital business card built with React JS and Tailwind CSS!
 =======
@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 35f2646 (Initialize project using Create React App)
